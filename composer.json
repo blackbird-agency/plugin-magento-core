@@ -1,5 +1,5 @@
 {
-    "name": "worldline/module-magento-payment-core",
+    "name": "blackbird-agency/module-magento-payment-core",
     "description": "Worldline Online Payments",
     "require": {
         "php": ">=7.3",
@@ -7,7 +7,7 @@
         "wl-online-payments-direct/sdk-php": "4.5.0"
     },
     "type": "magento2-module",
-    "version": "2.5.1",
+    "version": "2.5.2",
     "license": [
         "OSL-3.0"
     ],
